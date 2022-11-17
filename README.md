@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ This is my skills
+ ---
+- Frontend Skill：**Vue**, **React**, **HTML5**, **CSS3**, **WechatMiniProgram**
+- Backend Skill: **Java**, **Spring Boot**, **Spring Cloud**, **Spring Cloud Alibaba**, **MySQL**, **Redis**, **RabbitMQ**
+
