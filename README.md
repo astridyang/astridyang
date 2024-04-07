@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
  This is my skills
  ---
-- Frontend Skill：**Javascript**,**Vue**, **React**, **Typescript**,**HTML5**, **CSS3**, **WechatMiniProgram**
-- Backend Skill: **Java**, **Spring Boot**, **Spring Cloud**, **Spring Cloud Alibaba**, **MySQL**, **Redis**, **RabbitMQ**, **ElasticSearch**
+- Frontend：**Javascript**,**Vue**, **React**, **Typescript**,**HTML5**, **CSS3**
+- Backend: **Java**, **Spring Boot**, **Spring Cloud**, **Spring Cloud Alibaba**, **MySQL**, **Redis**, **RabbitMQ**, **ElasticSearch**
 
